@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'sql_server.pyodbc',
         'NAME': 'VISUAL800',
         'USER': 'visual_asp',
-        'PASSWORD': 'tre20450!20720$',
+        'PASSWORD': '',
         'HOST': 'PC0250',
         'PORT': '',
 
