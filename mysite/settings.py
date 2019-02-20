@@ -77,8 +77,8 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'sql_server.pyodbc',
-        'NAME': 'VISUAL800',
-        'USER': 'visual_asp',
+        'NAME': '',
+        'USER': '',
         'PASSWORD': '',
         'HOST': 'PC0250',
         'PORT': '',
