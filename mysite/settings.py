@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'sql_server.pyodbc',
-        'NAME': 'vvvv',
+        'NAME': '',
         'USER': '',
         'PASSWORD': '',
         'HOST': 'PC0250',
